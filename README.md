@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi 👋 I'm Mayank Prajapati
 
-<!--
-**mayankgp54/mayankgp54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer
+⚡ React.js • Next.js • Node.js • TypeScript
 
-Here are some ideas to get you started:
+## Personal Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 Rankify.in — Free SEO & Online Tools Platform
+https://rankify.in
+
+## Skills
+
+* React.js
+* Next.js
+* Node.js
+* MongoDB
+* TypeScript
+* Technical SEO
+* Full Stack Development
+
+## Connect
+
+* Website: https://rankify.in
+* LinkedIn: https://linkedin.com
