@@ -1,24 +1,32 @@
 # Hi 👋 I'm Mayank Prajapati
 
-🚀 MERN Stack Developer
+🚀 MERN Stack Developer  
 ⚡ React.js • Next.js • Node.js • TypeScript
 
-## Personal Project
+---
 
-🔗 Rankify.in — Free SEO & Online Tools Platform
-https://rankify.in
+## 🔗 My Projects & Tools
 
-## Skills
+| Website | Description |
+|---------|-------------|
+| [rankify.in](https://rankify.in) | Free SEO & Online Tools Platform |
+| [vspic.com](https://vspic.com) | Image Tools Platform |
+| [fakedatahub.com](https://fakedatahub.com) | Fake Data Generator Hub |
+| [ipchecker.online](https://ipchecker.online) | IP Checker & Network Tools |
 
-* React.js
-* Next.js
-* Node.js
-* MongoDB
-* TypeScript
-* Technical SEO
-* Full Stack Development
+---
 
-## Connect
+## 🛠️ Skills
 
-* Website: https://rankify.in
-* LinkedIn: https://linkedin.com
+- **Frontend:** React.js, Next.js, TypeScript
+- **Backend:** Node.js, MongoDB
+- **Other:** Technical SEO, Full Stack Development
+
+---
+
+## 🌐 Connect
+
+- 🔗 [rankify.in](https://rankify.in)
+- 🔗 [vspic.com](https://vspic.com)
+- 🔗 [fakedatahub.com](https://fakedatahub.com)
+- 🔗 [ipchecker.online](https://ipchecker.online)
